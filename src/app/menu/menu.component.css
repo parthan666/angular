@@ -1,0 +1,15 @@
+.menu{
+    list-style: none;
+    
+
+}
+.menu li{
+    float: left;
+    background-color: darkgreen;
+    padding:10px;
+    cursor: pointer;
+    color: white;
+}
+.menu li a{
+    color: white;
+}
